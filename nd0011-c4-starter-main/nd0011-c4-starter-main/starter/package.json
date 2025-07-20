@@ -2,9 +2,10 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "A flashcard web application",
-  "scripts": {
-    "test": "cypress run"
-  },
+"scripts": {
+  "start": "gulp",
+  "test": "cypress run"
+},
   "author": "Masarra",
   "license": "MIT",
   "type": "module",
