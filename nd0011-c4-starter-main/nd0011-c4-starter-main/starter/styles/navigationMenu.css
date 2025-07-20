@@ -1,0 +1,19 @@
+/* General Navigation Styling */
+.main-header {
+  width: 100px; /* إذا بدك 100 أو 200، لكن لا تكتب نفس الخاصية مرتين */
+  cursor: pointer;
+}
+
+.site-title,
+.nav-item {
+  text-transform: uppercase;
+}
+
+.nav-item {
+  margin: 10% 5%;
+  border-bottom: 2px solid lightgray;
+}
+
+.nav-item:hover {
+  border-bottom-color: #45e9f5;
+}
