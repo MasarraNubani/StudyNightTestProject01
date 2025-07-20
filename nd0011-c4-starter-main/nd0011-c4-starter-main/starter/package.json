@@ -2,9 +2,8 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "A flashcard web application",
-  
   "scripts": {
-    "test": "npm test"
+    "test": "cypress run"
   },
   "author": "Masarra",
   "license": "MIT",
